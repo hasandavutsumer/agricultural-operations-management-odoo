@@ -60,4 +60,42 @@ The project demonstrates the configuration of:
 
 ---
 
-*More technical documentation, business workflows, screenshots, and implementation details will be added in the following sections.*
+# 🔄 Business Process Flow
+
+The implemented solution follows a complete end-to-end agricultural production workflow.
+
+```text
+Crop Planning
+      │
+      ▼
+Purchase of Seeds, Fertilizers & Chemicals
+      │
+      ▼
+Inventory Receipt
+      │
+      ▼
+Manufacturing Order Creation
+      │
+      ▼
+Material Consumption
+      │
+      ▼
+Crop Production
+      │
+      ▼
+Finished Product Receipt
+      │
+      ▼
+Inventory Update
+      │
+      ▼
+Accounting Entries
+      │
+      ▼
+Product Cost Analysis
+      │
+      ▼
+Management Reporting
+```
+
+This workflow integrates multiple Odoo modules into a single business process, ensuring complete traceability from purchasing to financial reporting.
