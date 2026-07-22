@@ -99,3 +99,21 @@ Management Reporting
 ```
 
 This workflow integrates multiple Odoo modules into a single business process, ensuring complete traceability from purchasing to financial reporting.
+
+---
+
+# ⚙️ Functional Scope
+
+This implementation demonstrates the configuration of multiple Odoo functional modules working together as an integrated ERP solution.
+
+| Functional Area | Configuration |
+|-----------------|--------------|
+| Product Management | Product Variants, Product Categories |
+| Manufacturing | Bills of Materials (BoMs), Operations, Manufacturing Orders |
+| Procurement | Vendors, RFQs, Purchase Orders |
+| Inventory | Warehouses, Routes, Stock Movements |
+| Cost Management | Material Cost, Labor Cost, BoM Cost |
+| Accounting | Journal Entries, Financial Integration |
+| Reporting | Inventory, Costing, Financial Reports |
+
+The project focuses on business process configuration and functional implementation using standard Odoo capabilities without custom module development.
